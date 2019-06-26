@@ -1,4 +1,4 @@
-package tiket;
+package ticket;
 
 public class ticket {
 	private String ticketName;

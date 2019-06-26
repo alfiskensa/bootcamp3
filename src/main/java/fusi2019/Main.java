@@ -14,7 +14,7 @@ public class Main {
 		// TODO Auto-generated method stu
 		
 		//list with arraylist
-		List<String> list = new ArrayList<>();
+		List<String> list = new ArrayList<String>();
 		list.add("alfi");
 		list.add("ramdhani");
 		//array basic
@@ -27,7 +27,7 @@ public class Main {
 		map.get("nama");
 		
 		//set
-		Set<String> set = new HashSet<>();
+		Set<String> set = new HashSet();
 		set.add("alfi");
 		
 		//collection

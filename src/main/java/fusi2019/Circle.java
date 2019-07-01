@@ -1,5 +1,6 @@
 package fusi2019;
 
+
 public class Circle extends Shape {
 	protected double radius;
 	
